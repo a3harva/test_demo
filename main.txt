@@ -1,7 +1,9 @@
 this is text file change.txt
 
-this is the first chagne to be committed after tha first change so this makes it second commit 
+this is the first change to be committed after tha first change so this makes it second commit 
 
 this is third change (made from the browser )
 
 this is fourth change (made from the vscode server)
+
+also I added this statement too for reference along with adding new file 
